@@ -1,0 +1,79 @@
+{
+  "versao": "1.0",
+  "fonte": "PLP 68/2024 — Lei Complementar 214/2025",
+  "nota": "Em producao conectar endpoint https://cff.svrs.rs.gov.br/api/v1/consultas/classTrib",
+  "tabela": {
+    "84713012": {
+      "descricao": "Computadores pessoais",
+      "classe_trib": "01",
+      "ibs": 0.178,
+      "cbs": 0.088,
+      "is": 0.00,
+      "reducao_base": 0.00,
+      "regime": "geral"
+    },
+    "85171231": {
+      "descricao": "Smartphones",
+      "classe_trib": "01",
+      "ibs": 0.178,
+      "cbs": 0.088,
+      "is": 0.00,
+      "reducao_base": 0.00,
+      "regime": "geral"
+    },
+    "62034200": {
+      "descricao": "Vestuario masculino",
+      "classe_trib": "01",
+      "ibs": 0.178,
+      "cbs": 0.088,
+      "is": 0.00,
+      "reducao_base": 0.00,
+      "regime": "geral"
+    },
+    "90211000": {
+      "descricao": "Dispositivos medicos ortopedicos",
+      "classe_trib": "04",
+      "ibs": 0.120,
+      "cbs": 0.060,
+      "is": 0.00,
+      "reducao_base": 0.60,
+      "regime": "reducao"
+    },
+    "87032310": {
+      "descricao": "Automoveis ate 1000cc",
+      "classe_trib": "02",
+      "ibs": 0.178,
+      "cbs": 0.088,
+      "is": 0.25,
+      "reducao_base": 0.00,
+      "regime": "seletivo"
+    },
+    "22021000": {
+      "descricao": "Aguas e bebidas nao alcoolicas",
+      "classe_trib": "02",
+      "ibs": 0.178,
+      "cbs": 0.088,
+      "is": 0.20,
+      "reducao_base": 0.00,
+      "regime": "seletivo"
+    },
+    "01012100": {
+      "descricao": "Cavalos reprodutores",
+      "classe_trib": "05",
+      "ibs": 0.089,
+      "cbs": 0.044,
+      "is": 0.00,
+      "reducao_base": 1.00,
+      "regime": "cesta_basica"
+    },
+    "10059010": {
+      "descricao": "Milho em grao",
+      "classe_trib": "05",
+      "ibs": 0.089,
+      "cbs": 0.044,
+      "is": 0.00,
+      "reducao_base": 1.00,
+      "regime": "cesta_basica"
+    }
+  }
+}
