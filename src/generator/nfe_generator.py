@@ -99,7 +99,7 @@ def publicar_sqs(nfe: NotaFiscal):
         MessageBody=nfe.model_dump_json(),
     )
 
-def main(quantidade: int = 5):
+def main(quantidade: int = 1):
     print(f"Gerando {quantidade} NF-e(s)...\n")
     for i in range(quantidade):
         nfe = gerar_nfe()
@@ -108,4 +108,4 @@ def main(quantidade: int = 5):
     print(f"\n{quantidade} NF-e(s) publicadas na fila nfe-raw!")
 
 if __name__ == "__main__":
-    main(quantidade=10)
+    main(quantidade=1)
