@@ -313,7 +313,7 @@ shadow-tax-ledger/
 <div align="center">
 
 **João Henrique Penha**
-Engenheiro de Dados · Analista Jurídico-Tributário
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-joaohppenha-181717?style=flat&logo=github)](https://github.com/joaohppenha)
 
